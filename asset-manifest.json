@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/IIT.Professor/static/css/main.9fba4a05.chunk.css",
+    "main.js": "/IIT.Professor/static/js/main.0a2d98bd.chunk.js",
+    "main.js.map": "/IIT.Professor/static/js/main.0a2d98bd.chunk.js.map",
+    "runtime-main.js": "/IIT.Professor/static/js/runtime-main.b7b074fc.js",
+    "runtime-main.js.map": "/IIT.Professor/static/js/runtime-main.b7b074fc.js.map",
+    "static/js/2.52b862f5.chunk.js": "/IIT.Professor/static/js/2.52b862f5.chunk.js",
+    "static/js/2.52b862f5.chunk.js.map": "/IIT.Professor/static/js/2.52b862f5.chunk.js.map",
+    "index.html": "/IIT.Professor/index.html",
+    "static/css/main.9fba4a05.chunk.css.map": "/IIT.Professor/static/css/main.9fba4a05.chunk.css.map",
+    "static/js/2.52b862f5.chunk.js.LICENSE.txt": "/IIT.Professor/static/js/2.52b862f5.chunk.js.LICENSE.txt",
+    "static/media/imageone.f23e96f7.jpg": "/IIT.Professor/static/media/imageone.f23e96f7.jpg",
+    "static/media/imagethree.371894b1.jpg": "/IIT.Professor/static/media/imagethree.371894b1.jpg",
+    "static/media/imagetwo.d668232d.jpg": "/IIT.Professor/static/media/imagetwo.d668232d.jpg",
+    "static/media/prof.83e734a9.jpg": "/IIT.Professor/static/media/prof.83e734a9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7b074fc.js",
+    "static/js/2.52b862f5.chunk.js",
+    "static/css/main.9fba4a05.chunk.css",
+    "static/js/main.0a2d98bd.chunk.js"
+  ]
+}
